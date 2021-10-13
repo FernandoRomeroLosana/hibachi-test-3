@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
 /* @media screen and (min-width: 768px) {
   .MainLettering {
     font-size: 1.5rem;
@@ -23,7 +24,6 @@ font-family: 'Staatliches', cursive;
 text-align: center;
 margin-top: 15px;
 font-size: 70px;
-
 
 }
 
@@ -61,7 +61,6 @@ font-size: 70px;
   font-size: 24px;
 }
 
-
 .DivMain{
     width: flex;
     height: 100%;
@@ -86,6 +85,11 @@ font-size: 70px;
   padding-top: 15%;
 
 
+}
+
+.MenuMargin{
+
+  margin: 2px;
 }
 
 .navbar{
@@ -138,7 +142,7 @@ font-size: 70px;
     padding: 30px 50px;
 } */
 
-.gallery-container h1 {
+/* .gallery-container h1 {
     text-align: center;
     margin-top: 50px;
     font-family: 'Droid Sans', sans-serif;
@@ -156,7 +160,7 @@ font-size: 70px;
     padding: 40px;
 }
 
-/* Override bootstrap column paddings */
+/* Override bootstrap column paddings
 .tz-gallery .row > div {
     padding: 2px;
 }
@@ -181,7 +185,7 @@ font-size: 70px;
     pointer-events: none;
     z-index: 9000;
     transition: 0.4s;
-}
+} */
 
 
 /* .tz-gallery .lightbox:after {
@@ -204,9 +208,9 @@ font-size: 70px;
 /* .baguetteBox-button {
     background-color: transparent !important;
 } */
-
+/* 
 @media(max-width: 768px) {
     body {
         padding: 0;
     }
-}
+} */
